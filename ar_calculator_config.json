@@ -1,0 +1,19 @@
+{
+  "tool_title": "الحاسبة العلمية الرقمية",
+  "operation_keys": {
+    "add": "إضافة",
+    "subtract": "طرح",
+    "multiply": "ضرب",
+    "divide": "قسمة",
+    "clear": "مسح الكل"
+  },
+  "advanced_functions": {
+    "square_root": "الجذر التربيعي",
+    "percentage": "النسبة المئوية",
+    "logarithm": "اللوغاريتم"
+  },
+  "system_responses": {
+    "error_invalid_input": "خطأ: إدخال غير صالح",
+    "error_divide_by_zero": "خطأ: لا يمكن القسمة على صفر"
+  }
+}

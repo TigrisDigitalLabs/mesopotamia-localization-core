@@ -1,0 +1,18 @@
+{
+  "app_title": "مراقب الطقس الإقليمي",
+  "weather_metrics": {
+    "temperature": "درجة الحرارة",
+    "humidity": "الرطوبة",
+    "wind_speed": "سرعة الرياح",
+    "air_quality": "جودة الهواء"
+  },
+  "forecast_intervals": {
+    "hourly": "التوقعات بالساعة",
+    "daily": "التوقعات اليومية",
+    "weekly": "التوقعات الأسبوعية"
+  },
+  "status_alerts": {
+    "sandstorm_warning": "تحذير: عاصفة ترابية قادمة",
+    "extreme_heat": "تحذير: موجة حر شديدة"
+  }
+}

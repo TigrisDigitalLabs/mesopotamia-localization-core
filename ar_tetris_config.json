@@ -1,0 +1,19 @@
+{
+  "game_title": "لعبة تتريس الكلاسيكية",
+  "game_modes": {
+    "marathon": "وضع الماراثون",
+    "time_attack": "تحدي الوقت",
+    "sprint": "الوضع السريع"
+  },
+  "interface_elements": {
+    "next_piece": "القطعة التالية",
+    "lines_cleared": "الصفوف الممسوحة: ",
+    "current_score": "النقاط الحالية: ",
+    "high_score": "أعلى نتيجة"
+  },
+  "system_alerts": {
+    "level_up": "أحسنت! ارتفع المستوى!",
+    "paused": "تم إيقاف اللعبة مؤقتاً",
+    "game_over": "انتهت اللعبة"
+  }
+}
