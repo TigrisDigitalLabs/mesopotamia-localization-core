@@ -1,0 +1,20 @@
+{
+  "game_title": "لعبة تحطيم الطوب الكلاسيكية",
+  "menu_options": {
+    "start_game": "ابدأ اللعبة",
+    "high_scores": "أعلى النقاط",
+    "settings": "الإعدادات",
+    "exit": "خروج"
+  },
+  "gameplay_text": {
+    "score_label": "النقاط: ",
+    "level_label": "المستوى: ",
+    "game_over": "انتهت اللعبة! حاول مجدداً؟",
+    "victory_message": "تهانينا! لقد فزت!"
+  },
+  "settings_menu": {
+    "audio_toggle": "كتم الصوت",
+    "difficulty_easy": "الوضع السهل",
+    "difficulty_hard": "الوضع الصعب"
+  }
+}
